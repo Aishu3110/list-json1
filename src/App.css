@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  width:100%
+}
+.Product h1{
+  position: static;
+  display: flex;
+  font-size: 50px;
+  color: blueviolet;
+  justify-content: center;
+  align-items: center;
+}
+
+.Product1{
+  position: static;
+  display:flex;
+  justify-content:space-between;
+  height:600px;
+  width:600px;
+  padding:100px;
+  gap: 20px;
+}
